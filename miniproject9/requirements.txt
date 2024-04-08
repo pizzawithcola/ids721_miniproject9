@@ -1,2 +1,10 @@
+tensorboard==2.16.2
+tensorboard-data-server==0.7.2
+tensorflow==2.16.1
+toolz==0.12.1
+torch==2.2.2
+torchaudio==2.2.2
+torchvision==0.17.2
+tornado==6.4
 transformers==4.39.3
 
