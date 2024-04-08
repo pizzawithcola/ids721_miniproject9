@@ -14,7 +14,7 @@ def main():
 
     if option == "Chatbot":
         # Add logo image to the center of the page
-        st.image("DukeLogo.png", width=100)
+        # st.image("DukeLogo.png", width=100)
 
         st.title("Jamie's ChatBox")
         st.write("This app uses the GPT-Neo model for text generation.")
