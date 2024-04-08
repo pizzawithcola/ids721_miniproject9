@@ -37,7 +37,7 @@ def main():
         st.title("Website Description")
         st.image("LLM.png", width=500)
         st.write("This is a streamlit LLM app with hugging face model. It can be quite funny sometimes since it is just a local model but it's fun!")
-        st.write("Check for the source data!")
+        st.write("Check https://github.com/pizzawithcola/ids721_miniproject9/tree/main for the source data!")
 
 if __name__ == "__main__":
     main()
