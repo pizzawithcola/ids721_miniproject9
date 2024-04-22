@@ -2,7 +2,7 @@ import streamlit as st
 from transformers import pipeline
 
 # Load the model pipeline
-text_generation_pipeline = pipeline("text-generation", model="openai-community/gpt2")
+text_generation_pipeline = pipeline("text-generation", model="EleutherAI/gpt-neo-125M")
 
 # Define the Streamlit app
 def main():
