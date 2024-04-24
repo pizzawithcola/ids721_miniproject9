@@ -25,4 +25,4 @@ It is actually a pretty dumb model that runs locally and only pruduce some nonse
 
 I push the code and enviroment to gitHub and used the StreamLit platform to deploy the app.
 
-You can access the app through: https://ids721miniproject9-jamie.streamlit.app
+You can access the app through: http://152.3.65.158:8501 
