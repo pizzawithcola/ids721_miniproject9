@@ -14,7 +14,7 @@ def main():
 
     if option == "Chatbot":
         # Add logo image to the center of the page
-        # st.image("DukeLogo.png", width=100)
+        st.image("DukeLogo.png", width=100)
 
         st.title("Jamie's ChatBox")
         st.write("This app uses the GPT-Neo model for text generation.")
@@ -35,7 +35,7 @@ def main():
                 st.warning("Please enter a message.")
     elif option == "Website Description":
         st.title("Website Description")
-        # st.image("LLM.png", width=500)
+        st.image("LLM.png", width=500)
         st.write("This is a streamlit LLM app with hugging face model. It can be quite funny sometimes since it is just a local model but it's fun!")
         st.write("Check https://github.com/pizzawithcola/ids721_miniproject9/tree/main for the source data!")
 
